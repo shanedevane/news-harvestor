@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+google
+pdfkit
+pandas
+
+weasyprint
