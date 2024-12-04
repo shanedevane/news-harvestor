@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.idea/
+.google-cookie
+
+data/
 # C extensions
 *.so
 
